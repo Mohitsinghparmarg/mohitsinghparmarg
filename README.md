@@ -1,11 +1,14 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=FFFFFF&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Mohit+%F0%9F%91%8B;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;I+love+building+scalable+web+applications" alt="Typing SVG">
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitparmar1501&color=brightgreen" alt="Profile Views">
-</p>
+<div style="position: fixed; top: 10px; left: 10px; z-index: 1000;">
+  <!-- Typing Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=FFFFFF&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Mohit+%F0%9F%91%8B;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;I+love+building+scalable+web+applications" alt="Typing SVG">
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mohitparmar1501&color=brightgreen" alt="Profile Views">
+  </p>
+</div>
 
 ---
 
