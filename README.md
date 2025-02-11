@@ -23,12 +23,22 @@ With expertise in **React.js, Next.js, JavaScript, TypeScript, Node.js, Express.
 ### **NetflixGPT**  
 - An **AI-powered movie recommendation platform** built using **Gemini API** and **TMDB API**.  
 - Developed a **modern, responsive UI** using **React.js and TailwindCSS**.  
-- Implemented **authentication and user preferences** with **Firebase**.
+- Implemented **authentication and user preferences** with **Firebase**. 
+
+### **DevSpark**  
+- **Auth and Security:** Implemented **signup, login, JWT authentication, bcrypt hashing, and cookie handling**.  
+- **API and Routing:** Organized **routes, validated data**, and built **profile, request, and connection APIs**.  
+- **DB Optimization:** Used **indexing, query operators, and pagination** for efficient data handling.
 
 ### **Shopping App**  
 - A **feature-rich e-commerce platform** allowing users to browse, search, and purchase products.  
 - Developed with **React.js, Redux, Node.js, Express.js, and MongoDB**.  
-- Integrated **user authentication, cart functionality, and secure payments**.  
+- Integrated **user authentication, cart functionality, and secure payments**. 
+
+### **iCompressor**  
+- Developed a **C++ text compression CLI program** achieving an **average 40% compression ratio**.  
+- Utilized a **Trie data structure** for efficient data handling, enabling **faster processing and reduced file sizes**.  
+- Extensible with a **custom dictionary** for **improved performance and storage efficiency**.  
 
 ---
 
