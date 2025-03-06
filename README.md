@@ -26,9 +26,12 @@ With expertise in **React.js, Next.js, JavaScript, TypeScript, Node.js, Express.
 - Implemented **authentication and user preferences** with **Firebase**. 
 
 ### **DevSpark**  
-- **Auth and Security:** Implemented **signup, login, JWT authentication, bcrypt hashing, and cookie handling**.  
-- **API and Routing:** Organized **routes, validated data**, and built **profile, request, and connection APIs**.  
-- **DB Optimization:** Used **indexing, query operators, and pagination** for efficient data handling.
+- DevSpark – A social networking app enabling users to connect, update profiles, and chat in real time with a
+  seamless and user-friendly experience.
+- Secure Scalable API – Implemented JWT authentication, bcrypt hashing, and secure cookie handling. Designed
+  RESTful APIs with structured validation for profiles, connections, and messaging.
+- Optimized Performance – Improved database efficiency with indexing, query optimization, and pagination for fast
+  and scalable data handling.
 
 ### **Shopping App**  
 - A **feature-rich e-commerce platform** allowing users to browse, search, and purchase products.  
