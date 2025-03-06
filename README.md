@@ -21,9 +21,12 @@ With expertise in **React.js, Next.js, JavaScript, TypeScript, Node.js, Express.
 ## 🚀 Projects  
 
 ### **NetflixGPT**  
-- An **AI-powered movie recommendation platform** built using **Gemini API** and **TMDB API**.  
-- Developed a **modern, responsive UI** using **React.js and TailwindCSS**.  
-- Implemented **authentication and user preferences** with **Firebase**. 
+- NetflixGPT – An AI-driven movie recommendation platform built with React, enabling intuitive and personalized
+  movie discovery through intelligent search and optimized state management.
+- AI-Powered Search Performance – Integrated Gemini and TMDB APIs with custom hooks, leveraging Redux for
+  efficient state management and seamless data handling.
+- Enhanced UX – Designed a responsive UI with GPT-powered search, secure authentication, and profile management
+  for a smooth user experience. 
 
 ### **DevSpark**  
 - DevSpark – A social networking app enabling users to connect, update profiles, and chat in real time with a
