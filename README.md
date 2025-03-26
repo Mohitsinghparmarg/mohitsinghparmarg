@@ -29,8 +29,7 @@ With expertise in **React.js, Next.js, JavaScript, TypeScript, Node.js, Express.
   for a smooth user experience. 
 
 ### **DevSpark**  
-- DevSpark – A social networking app enabling users to connect, update profiles, and chat in real time with a
-  seamless and user-friendly experience.
+- DevSpark – A social networking app enabling users to connect.
 - Secure Scalable API – Implemented JWT authentication, bcrypt hashing, and secure cookie handling. Designed
   RESTful APIs with structured validation for profiles, connections, and messaging.
 - Optimized Performance – Improved database efficiency with indexing, query optimization, and pagination for fast
