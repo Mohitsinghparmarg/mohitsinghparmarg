@@ -13,7 +13,7 @@
 
 ## 👋 About Me  
 I am **Mohit Singh Parmar**, a passionate **Full-Stack Developer** currently pursuing my **Master of Computer Applications from National Institutes of Technology Jamshedpur**.  
-With expertise in **React.js, JavaScript, Node.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
+With expertise in **React.js, JavaScript, Node.js,Next.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
 
 ---
 
