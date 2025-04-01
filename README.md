@@ -13,26 +13,21 @@
 
 ## 👋 About Me  
 I am **Mohit Singh Parmar**, a passionate **Full-Stack Developer** currently pursuing my **Master of Computer Applications from National Institutes of Technology Jamshedpur**.  
-With expertise in **React.js, JavaScript, Node.js,Next.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
+With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
 
 ---
 
 ## 🚀 Projects  
 
 ### **NetflixGPT**  
-- NetflixGPT – An AI-driven movie recommendation platform built with React, enabling intuitive and personalized
-  movie discovery through intelligent search and optimized state management.
-- AI-Powered Search Performance – Integrated Gemini and TMDB APIs with custom hooks, leveraging Redux for
-  efficient state management and seamless data handling.
-- Enhanced UX – Designed a responsive UI with GPT-powered search, secure authentication, and profile management
-  for a smooth user experience. 
+- NetflixGPT – AI-Powered Recommendations: Built a React-based platform integrating Gemini and TMDB APIs for personalized content discovery.
+- Optimized State and Performance: Utilized Redux and custom hooks for efficient state management and API handling.
+- Enhanced User Experience: Designed a responsive UI with GPT-powered search and profile management for seamless interactions.
 
 ### **DevSpark**  
-- DevSpark – A social networking app enabling users to connect.
-- Secure Scalable API – Implemented JWT authentication, bcrypt hashing, and secure cookie handling. Designed
-  RESTful APIs with structured validation for profiles and connections.
-- Optimized Performance – Improved database efficiency with indexing, query optimization, and pagination for fast
-  and scalable data handling.
+- DevSpark – Social Networking Platform: Designed and built an interactive platform enabling seamless user connections.
+- Robust and Secure APIs: Developed RESTful APIs with JWT authentication and bcrypt hashing to ensure data security.
+- Optimized Database Performance: Enhanced scalability with indexing, query optimization, and pagination for efficient data retrieval.
 
 ### **Shopping App**  
 - A **feature-rich e-commerce platform** allowing users to browse, search, and purchase products.  
@@ -40,9 +35,9 @@ With expertise in **React.js, JavaScript, Node.js,Next.js, Express.js, MongoDB, 
 - Integrated **user authentication, cart functionality, and secure payments**. 
 
 ### **iCompressor**  
-- Developed a **C++ text compression CLI program** achieving an **average 40% compression ratio**.  
-- Utilized a **Trie data structure** for efficient data handling, enabling **faster processing and reduced file sizes**.  
-- Extensible with a **custom dictionary** for **improved performance and storage efficiency**. 
+- C++ Text Compression Tool: Developed a CLI-based program achieving 40% average compression, optimizing storage and transmission.
+- Efficient Data Processing: Used a Trie-based structure for fast encoding/decoding, ensuring reduced file sizes with high-speed processing.
+- Customizable and Extensible: Integrated a custom dictionary for adaptive compression, enhancing performance across diverse datasets.
 
 ---
 
