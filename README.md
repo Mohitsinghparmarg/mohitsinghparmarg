@@ -12,7 +12,7 @@
 ---
 
 ## 👋 About Me  
-I am **Mohit Singh Parmar**, a passionate **Full-Stack Developer** currently pursuing my **Master of Computer Applications from National Institutes of Technology Jamshedpur**.  
+I am **Mohit Singh Parmar**, a passionate **Full-Stack Developer** currently pursuing my **Master of Computer Applications from National Institute of Technology, Jamshedpur**.  
 With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
 
 ---
@@ -20,38 +20,37 @@ With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB,
 ## 🚀 Projects  
 
 ### **NetflixGPT**  
-- NetflixGPT – AI-Powered Recommendations: Built a React-based platform integrating Gemini and TMDB APIs for personalized content discovery.
-- Optimized State and Performance: Utilized Redux and custom hooks for efficient state management and API handling.
-- Enhanced User Experience: Designed a responsive UI with GPT-powered search and profile management for seamless interactions.
+- **AI-Powered Recommendations**: Built a React-based platform integrating Gemini and TMDB APIs for personalized content discovery.  
+- **Optimized State and Performance**: Used Redux and custom hooks for efficient state management and API handling.  
+- **Enhanced User Experience**: Designed a responsive UI with GPT-powered search and profile management for seamless interactions.
 
 ### **DevSpark**  
-- DevSpark – Social Networking Platform: Designed and built an interactive platform enabling seamless user connections.
-- Robust and Secure APIs: Developed RESTful APIs with JWT authentication and bcrypt hashing to ensure data security.
-- Optimized Database Performance: Enhanced scalability with indexing, query optimization, and pagination for efficient data retrieval.
+- **Social Networking Platform**: Designed and built an interactive platform enabling seamless user connections.  
+- **Secure Authentication**: Developed RESTful APIs with JWT authentication and bcrypt hashing to ensure data privacy.  
+- **Scalable Backend**: Enhanced scalability with indexing, query optimization, and pagination for efficient data retrieval.
 
 ### **Shopping App**  
 - A **feature-rich e-commerce platform** allowing users to browse, search, and purchase products.  
 - Developed with **React.js, Redux, Node.js, Express.js, and MongoDB**.  
-- Integrated **user authentication, cart functionality, and secure payments**. 
+- Integrated **user authentication, cart functionality, and secure payments**.
 
 ### **iCompressor**  
-- C++ Text Compression Tool: Developed a CLI-based program achieving 40% average compression, optimizing storage and transmission.
-- Efficient Data Processing: Used a Trie-based structure for fast encoding/decoding, ensuring reduced file sizes with high-speed processing.
-- Customizable and Extensible: Integrated a custom dictionary for adaptive compression, enhancing performance across diverse datasets.
+- **C++ Text Compression Tool**: CLI-based program achieving 40% average compression for optimized storage.  
+- **Efficient Data Processing**: Implemented a Trie-based structure for fast encoding/decoding.  
+- **Customizable**: Integrated a dynamic dictionary for adaptive compression across various datasets.
 
 ---
 
-
- ## 🔍 What I’m Learning  
- I am currently enhancing my skills in:  
- - **Azure & AWS** – Cloud infrastructure & deployment  
- - **Kubernetes & CI/CD** – Automating software delivery  
- - **DevOps practices** – Streamlining development workflows
+## 🔍 What I’m Learning  
+Currently enhancing skills in:  
+- **Azure & AWS** – Cloud infrastructure & deployment  
+- **Kubernetes & CI/CD** – Automating software delivery  
+- **DevOps Practices** – Streamlining development workflows
 
 ---
 
 ## 💡 Let’s Connect!  
-💼 **Looking for opportunities in Software Development**  
+💼 **Open to opportunities in Software Development**  
 📫 **Email:** mohitparmar1501@gmail.com  
 🔗 **LinkedIn:** [Mohit Singh Parmar](https://www.linkedin.com/in/mohit-singh-parmar-1ba948274/)  
 🔥 **LeetCode:** [Mohit's LeetCode Profile](https://leetcode.com/mohitparmar1501/)  
@@ -61,39 +60,39 @@ With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB,
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-   <!-- Frontend Techs -->
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
 
-  <!-- Backend Techs -->
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 
-  <!-- Database -->
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
-    <!-- Cloud & DevOps -->
-   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 
   <!-- Tools -->
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 </p>
