@@ -24,11 +24,6 @@ With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB,
 - **Secure Authentication**: Developed RESTful APIs with JWT authentication and bcrypt hashing to ensure data privacy.  
 - **Scalable Backend**: Enhanced scalability with indexing, query optimization, and pagination for efficient data retrieval.
 
-### **Shopping App**  
-- A **feature-rich e-commerce platform** allowing users to browse, search, and purchase products.  
-- Developed with **React.js, Redux, Node.js, Express.js, and MongoDB**.  
-- Integrated **user authentication, cart functionality, and secure payments**.
-
 ### **iCompressor**  
 - **C++ Text Compression Tool**: CLI-based program achieving 40% average compression for optimized storage.  
 - **Efficient Data Processing**: Implemented a Trie-based structure for fast encoding/decoding.  
