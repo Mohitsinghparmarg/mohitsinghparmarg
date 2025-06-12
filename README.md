@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me  
-I am **Mohit Singh Parmar**, a passionate **Full-Stack Developer** , Completed my **Master of Computer Applications from National Institute of Technology, Jamshedpur**.  
+I am **Mohit Jay Prakash**, a passionate **Full-Stack Developer** , Completed my **Master of Computer Applications from National Institute of Technology, Jamshedpur**.  
 With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, MongoDB, and SQL**, I love building **scalable and innovative web applications**.  
 
 ---
