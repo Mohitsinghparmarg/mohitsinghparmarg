@@ -81,21 +81,3 @@ With expertise in **React.js, JavaScript, Node.js, Next.js, Express.js, Angular,
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
 </p>
-
----
-
-### 🧠 Additional Skills & Coursework
-
-- **Programming Languages:** C/C++, Java, JavaScript, TypeScript, SQL  
-- **Frontend:** HTML, CSS, Tailwind CSS, React.js, Redux Toolkit, Angular  
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs, Neo4j  
-- **DevOps & Tools:** Git, AWS (EC2, S3), Postman, Jest, JWT, Vercel, Docker (basic)  
-- **Coursework:** Data Structures, Algorithms, OOP, DBMS, Operating Systems, Software Engineering  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitparmar1501&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
